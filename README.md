@@ -14,7 +14,7 @@ Synopsis: Objective of this project is to build a model which can identify the h
 
 Technology used: Python
 
-2. Title: News Classification using NLP
+3. Title: News Classification using NLP
 
 Synopsis: This project aims at building a model which classifies whether the news given is genuine news or false news by using Natural Language Processing
 
