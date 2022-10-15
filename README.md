@@ -1,6 +1,6 @@
 #AI Projects
 
-# Title: Recognition of Objects with Convolutional Neural Network
+
 
 Synopsis: The aim of this project is to build a deep learning model so as to recognise the object by using CIFAR-10 data set (Canadian Institute for Advanced Research)
 
